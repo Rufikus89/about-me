@@ -1,7 +1,6 @@
 ## **Hello there!** 
-**I am here to suggest you my validator services.**  
-
-[![photo-2021-08-14-13-43-07.jpg](https://i.postimg.cc/HnDM13Xn/photo-2021-08-14-13-43-07.jpg)](https://postimg.cc/bDgrQx6f)  
+## **I am here to offer you my validator services**  
+[![my-ava.png](https://i.postimg.cc/6qc3qNy7/my-ava.png)](https://postimg.cc/dZ7vNpRv)  
 ## Unlimitedmolot Validate Networks:
 Active Test-nets:  
 1. ***[Minima](https://minima.global/ "Minima")***  
@@ -17,10 +16,13 @@ Active Test-nets:
 + Guarantee of giving slashes back  
 + The smallest commission and fees
 + Feel free to write me anytime: my nominators are my friends!    
-## Means huge profit for you!
-#   
-    
- Contacts:  
+## Means huge profit for you!  
+The world isn't run by laws being written on paper - it is running by people. Some's according to law, other's not.    
+It depends on each individual how his world will be, how he makes it. He is also need a whole lot of luck.    
+It is important to keep a balance in things. Balance is the right word.  
+Because the guy that wants too much - risks to loose absolutely everything.  
+Ofcourse the guy who want too little from life - might not get anything at all. ©Thomas Angelo 
+ # **Contacts:**
  * ***[Telegram](https://t.me/Tommmymlt "@Tommmymlt")***  
  * ***[GitHub](https://github.com/Unlimitedmolot "@Unlimitedmolot")***  
  * ***[Twitter](https://twitter.com/Unlimitedmolot "@Unlimitedmolot")***
