@@ -2,12 +2,13 @@
 ## **I am here to offer you my validator services**  
 [![my-ava.png](https://i.postimg.cc/6qc3qNy7/my-ava.png)](https://postimg.cc/dZ7vNpRv)  
 ## Unlimitedmolot Validate Networks:
-Active Test-nets:  
+Active projects:  
 1. ***[Minima](https://minima.global/ "Minima")***  
 2. ***[Nym Network](https://testnet-milhon-explorer.nymtech.net/nym/mixnodes/HgGXxQUYxzNamQ733fZNmhWA5GP1aDZxmPwWNNs6tqhg "Molotushka node")***  
 3. ***[Meson Network](https://meson.network/ "Meson")***  
 4. ***[Iron Fish](https://ironfish.network/docs/whitepaper/1_introduction "Iron Fish")***
-5. ***[MASSA Protocol](https://test.massa.net/#explorer?explore=2pFJFzVA7hvmGkndwpZSo8t6frsBw4gp72rsJ1LkJQjj7kx6y8 "Unlimitedmolot_massa_node")***  
+5. ***[MASSA Protocol](https://test.massa.net/#explorer?explore=2pFJFzVA7hvmGkndwpZSo8t6frsBw4gp72rsJ1LkJQjj7kx6y8 "Unlimitedmolot_massa_node")*** 
+6. ***[Ethereum Mining](https://eth.2miners.com/account/0x9ec590f56e5c98a9617bf990509389c7217baddc"Unlimitedmolotminer")***  
 
 ## **Why do you should choose me?**  
 + 24/7 uptime  
