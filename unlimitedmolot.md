@@ -9,6 +9,7 @@ Active projects:
 4. ***[Iron Fish](https://ironfish.network/docs/whitepaper/1_introduction "Iron Fish")***
 5. ***[MASSA Protocol](https://test.massa.net/#explorer?explore=2pFJFzVA7hvmGkndwpZSo8t6frsBw4gp72rsJ1LkJQjj7kx6y8 "Unlimitedmolot_massa_node")*** 
 6. ***[Ethereum Mining](https://eth.2miners.com/account/0x9ec590f56e5c98a9617bf990509389c7217baddc"Unlimitedmolotminer")***  
+7. ***[Flux protocol ambassador (flux foretellers)](https://www.fluxprotocol.org/blog/announcing-the-flux-protocol-foreteller-event"Unlimitedmolotminer")***
 
 ## **Why do you should choose me?**  
 + 24/7 uptime  
