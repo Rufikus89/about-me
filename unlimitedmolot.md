@@ -28,3 +28,4 @@ Ofcourse the guy who want too little from life - might not get anything at all. 
  * ***[Telegram](https://t.me/Tommmymlt "@Tommmymlt")***  
  * ***[GitHub](https://github.com/Unlimitedmolot "@Unlimitedmolot")***  
  * ***[Twitter](https://twitter.com/Unlimitedmolot "@Unlimitedmolot")***
+ * ***[Medium](https://medium.com/@unlimitedmolotnorilsk "@Unlimitedmolot")***
