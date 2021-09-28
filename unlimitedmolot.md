@@ -7,7 +7,7 @@ Active projects:
 2. ***[Nym Network](https://testnet-milhon-explorer.nymtech.net/nym/mixnodes/HgGXxQUYxzNamQ733fZNmhWA5GP1aDZxmPwWNNs6tqhg "Molotushka node")***  
 3. ***[Meson Network](https://meson.network/ "Meson")***  
 4. ***[Iron Fish](https://ironfish.network/docs/whitepaper/1_introduction "Iron Fish")***
-5. ***[MASSA Protocol](https://test.massa.net/#explorer?explore=2pFJFzVA7hvmGkndwpZSo8t6frsBw4gp72rsJ1LkJQjj7kx6y8 "Unlimitedmolot_massa_node")*** 
+5. ***[MASSA Protocol](https://test.massa.net/#explorer?explore=2FN1EGWv3V3vAzdJSW6kRi4CjuCLo9cbjvY4sqb5yT6g5NL6xd "Unlimitedmolot_massa_node")*** 
 6. ***[Ethereum Mining](https://eth.2miners.com/account/0x9ec590f56e5c98a9617bf990509389c7217baddc"Unlimitedmolotminer")***  
 7. ***[Flux protocol ambassador (flux foretellers)](https://www.fluxprotocol.org/blog/announcing-the-flux-protocol-foreteller-event"Unlimitedmolotminer")***
 
