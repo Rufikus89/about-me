@@ -10,6 +10,8 @@ Active projects:
 5. ***[MASSA Protocol](https://test.massa.net/#explorer?explore=2FN1EGWv3V3vAzdJSW6kRi4CjuCLo9cbjvY4sqb5yT6g5NL6xd "Unlimitedmolot_massa_node")*** 
 6. ***[Ethereum Mining](https://eth.2miners.com/account/0x9ec590f56e5c98a9617bf990509389c7217baddc"Unlimitedmolotminer")***  
 7. ***[Flux protocol ambassador (flux foretellers)](https://www.fluxprotocol.org/blog/announcing-the-flux-protocol-foreteller-event"Unlimitedmolotminer")***
+8. ***[Medibloc Mainnet Validator](https://www.mintscan.io/medibloc/validators/panaceavaloper1ut57eqcjwcayjdz7fh0t7c8z4lut2sf0lj2kl4)***
+
 
 ## **Why do you should choose me?**  
 + 24/7 uptime  
