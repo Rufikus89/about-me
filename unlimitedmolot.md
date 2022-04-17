@@ -1,6 +1,6 @@
 ## **Hello there!🌀🧬📡** 
 ## **I am in love with crypto <3**  
-[![my-ava.png](https://i.postimg.cc/6qc3qNy7/my-ava.png)](https://postimg.cc/dZ7vNpRv)
+<a href="https://ibb.co/QbWnVX7"><img src="https://i.ibb.co/QbWnVX7/IMG-0307.png" alt="IMG-0307" border="0"></a>
 
    ***[Cryptomolot community](https://t.me/molotcrypto)***
  
